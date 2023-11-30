@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "mx.edu.a22311091.dados"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "mx.edu.a22311091.dados"
